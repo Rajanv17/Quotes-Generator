@@ -1,2 +1,2 @@
 # Quotes-Generator
-It generates quotes through an api using javascript.It also contain Twitter and Linkedin button to directly tweet or post on any of them.
+It generates quotes through an API using javascript. It also contains Twitter and Linkedin buttons to tweet or post on any of them directly.
